@@ -1,0 +1,17 @@
+
+#phrase {
+
+}
+
+#title {
+  text-align: center;
+}
+
+#newPhrase {
+  display: none;
+
+}
+
+button {
+  margin-top: 30px;
+}
